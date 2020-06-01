@@ -1,7 +1,6 @@
 package com.upgrad.quora.api.controller;
 
 import com.upgrad.quora.api.model.*;
-import com.upgrad.quora.service.business.AuthenticationService;
 import com.upgrad.quora.service.business.QuestionService;
 import com.upgrad.quora.service.entity.Questions;
 import com.upgrad.quora.service.entity.UserAuth;
